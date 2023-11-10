@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "title": "White, with USB-C port.",
+        "description": "$2.000.000",
+        "price": "image",
+        "thumbnail": "324-654",
+        "code": 34
+    },
+    {
+        "id": 2,
+        "title": "Black, Dimensions: 76 x 163.6 x 7.7 mm.",
+        "description": "$125.000",
+        "price": "image",
+        "thumbnail": "567-545",
+        "code": 23
+    }
+]

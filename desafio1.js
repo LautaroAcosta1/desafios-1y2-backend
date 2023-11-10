@@ -1,6 +1,6 @@
 class ProductManager {
     products = []
-    quantyProductId = 0;
+    quantyProductId = 0
 
     constructor() {}
 
